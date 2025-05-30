@@ -210,3 +210,4 @@ hr.section-divider { /* Shared with M2 or can be distinct if needed */
     background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(31, 28, 44, 0.25), rgba(0, 0, 0, 0));
     margin: 30px 0; /* Spacing for divider */
 }
+
